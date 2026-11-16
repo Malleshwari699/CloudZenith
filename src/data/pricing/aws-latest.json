@@ -1,6 +1,6 @@
 {
   "provider": "aws",
-  "lastUpdated": "2026-11-09T15:57:06.824Z",
+  "lastUpdated": "2026-11-16T15:31:43.281Z",
   "regions": {
     "us-east-1": {
       "displayName": "US East (N. Virginia)",
